@@ -1,0 +1,216 @@
+.luxury-card1:hover {
+   
+    animation-name: example;
+    animation-duration: 8s;
+}
+.luxury-card1 {
+    background-image: url('../img/luxury/audi-q8.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example {
+    0%   {background-image: url('../img/luxury/audi-q8.jpg');}
+    25%  {background-image: url('../img/luxury/audi-q88.jpg');}
+    50%  {background-image: url('../img/luxury/Audi_Q8_2019.jpg');}
+    100% {background-image: url('../img/luxury/audiq8.jpg');}
+  }
+  .luxury-card2:hover {
+   
+    animation-name: example1;
+    animation-duration: 8s;
+}
+.luxury-card2 {
+    background-image: url('../img/luxury/bmw-x3.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example1 {
+    0%   {background-image: url('../img/luxury/x3.jpg');}
+    25%  {background-image: url('../img/luxury/x33.jpg');}
+    50%  {background-image: url('../img/luxury/x3a.jpg');}
+    100% {background-image: url('../img/luxury/bmw-x3.jpg');}
+  }
+  .luxury-card3:hover {
+   
+    animation-name: example2;
+    animation-duration: 8s;
+  }
+  .luxury-card3 {
+    background-image: url('../img/luxury/GLC-Coupe-exterieur.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example2 {
+    0%   {background-image: url('../img/luxury/GLC-Coupe-exterieur.jpg');}
+    25%  {background-image: url('../img/luxury/glc1.jpg');}
+    50%  {background-image: url('../img/luxury/glc2.jpg');}
+    100% {background-image: url('../img/luxury/Mercedes_GLC_12_0.jpg');}
+  }
+  .luxury-card4:hover {
+   
+    animation-name: example3;
+    animation-duration: 8s;
+  }
+  .luxury-card4 {
+    background-image: url('../img/luxury/MQ6.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example3 {
+    0%   {background-image: url('../img/luxury/mmq6.jpg');}
+    25%  {background-image: url('../img/luxury/MQ6.jpeg');}
+    50%  {background-image: url('../img/luxury/mercedes-benz-amg.jpg');}
+    100% {background-image: url('../img/luxury/mercedes-benz.jpg');}
+  }
+  .luxury-card5:hover {
+   
+    animation-name: example4;
+    animation-duration: 8s;
+  }
+  .luxury-card5 {
+    background-image: url('../img/luxury/amarok.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example4 {
+    0%   {background-image: url('../img/luxury/vw-amarok-2022.jpg');}
+    25%  {background-image: url('../img/luxury/Volkswagen-Amarok.jpg');}
+    50%  {background-image: url('../img/luxury/nuevo-amarok.jpg');}
+    100% {background-image: url('../img/luxury/amarok.jpg');}
+  }
+  .luxury-card6:hover {
+   
+    animation-name: example5;
+    animation-duration: 8s;
+  }
+  .luxury-card6 {
+    background-image: url('../img/luxury/Polo_\(6\).jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example5 {
+    0%   {background-image: url('../img/luxury/Polo.jpg');}
+    25%  {background-image: url('../img/luxury/polo6.jpg');}
+    50%  {background-image: url('../img/luxury/polo66.jpg');}
+    100% {background-image: url('../img/luxury/Polo_\(6\).jpg');}
+  }
+  .luxury-card7:hover {
+   
+    animation-name: example6;
+    animation-duration: 8s;
+  }
+  .luxury-card7 {
+    background-image: url('../img/luxury/hi20.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example6 {
+    0%   {background-image: url('../img/luxury/hyundai-i20.jpg');}
+    25%  {background-image: url('../img/luxury/hyundai.jpg');}
+    50%  {background-image: url('../img/luxury/i20.jpg');}
+    100% {background-image: url('../img/luxury/hi20.jpg');}
+  }
+  .luxury-card8:hover {
+   
+    animation-name: example7;
+    animation-duration: 8s;
+  }
+  .luxury-card8 {
+    background-image: url('../img/luxury/g7.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example7 {
+    0%   {background-image: url('../img/luxury/golf-7-gti.jpg');}
+    25%  {background-image: url('../img/luxury/golf-7.jpg');}
+    50%  {background-image: url('../img/luxury/golf77.jpg');}
+    100% {background-image: url('../img/luxury/g7.jpg');}
+  }
+  .luxury-card9:hover {
+   
+    animation-name: example8;
+    animation-duration: 8s;
+  }
+  .luxury-card9 {
+    background-image: url('../img/luxury/pa_b8.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+
+    max-width: 100%;
+    width: 100%;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 25px;
+    height: 275px;
+    
+}
+@keyframes example8 {
+    0%   {background-image: url('../img/luxury/b8.jpg');}
+    25%  {background-image: url('../img/luxury/pb8.jpg');}
+    50%  {background-image: url('../img/luxury/volkswagen-passat.jpg');}
+    100% {background-image: url('../img/luxury/pa_b8.jpg');}
+  }

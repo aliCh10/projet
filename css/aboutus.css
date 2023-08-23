@@ -1,0 +1,136 @@
+.about{
+    width: 100%;
+    padding: 80px opx;
+    display: flex;
+    padding-bottom: 25px;
+    margin-top: 25px;
+
+}
+.about video{
+    height: auto;
+    width: 100%;
+    margin-top: 85px;
+    margin-left: 5px;
+}
+.aboutus_text{
+    width: 100%;
+    margin-left: 2%;
+
+}
+.aboutus_text h1{
+    color: #fb5b2f;
+    font-weight: bold;
+}
+#title{
+    color: #222429;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+#def{
+    font-size: 30px;
+    color: #686A6F;
+    font-weight: 600 !important;
+}
+p{
+    box-sizing: border-box;
+    font-size: 17px;
+    font-weight: bold;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: #222429;
+    display: flex;
+}
+.blocks{
+    width: 25%;
+    background-color: white;
+    padding: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+#image{
+    width: 80px;
+    margin-left: 140px;
+}
+.blocks h2{
+    text-align: center;
+    color: #222429;
+    font-weight: 600 !important;
+}
+.offre{
+    width: 100%;
+    height: 100%;
+}
+#about_title{
+    text-align: center;
+    justify-content: center;
+    font-size: 50px;
+    background-color: #222429;
+    color: white;
+    display: -webkit-box;
+    padding-left: 370px;
+    padding-top: 65px
+}
+.btn{
+    height: 247px;
+    background-color: #222429;
+    display: flex;
+}
+
+.boutton{
+    width: 85%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background:#fb5b2f;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+	margin-top: 65px;
+	margin-bottom: 30px;
+    color: white;   
+}
+.container-bonde{
+    width: 100%;
+    height: 300px;
+    padding-top: 70px;
+}
+.bonde{
+    width: 100%;
+    height: 250px;
+    background-color: #222429;
+}
+.container-box{
+    width: 100%;
+    height: 150px;
+    padding-top: 50px;
+    display: flex;
+}
+
+.container-row{
+    width: 33%;
+    height: 50%;
+    padding-top: 50px;
+}
+#row{
+    font-size: 33px;
+    color: rgb(155, 150, 150);
+    justify-content: center ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 70px;
+}
+#row-text{
+    font-size: 40px;
+    color: white;
+    padding-left: 120px;
+}
+#check{
+    width: 40px;
+    padding-left: 10px;
+}
+
